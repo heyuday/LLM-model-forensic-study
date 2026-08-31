@@ -82,7 +82,7 @@ The scripts write JSON into `results/raw/`.
 
 ## Notes
 
-- The `third_party/` directories are snapshots of the referenced external repos, kept here so the analysis is self-contained.
+- The `third_party/` directories are snapshots of the referenced external repos, kept here so the analysis is self-contained, and are not meant to track upstream.
 - Embedded `.git` metadata and local `.env` files are intentionally excluded from version control.
 - The strongest Value Leakage evidence in this repo comes from the shipped artifacts in `third_party/value-leakage/runs/`, not from new paid runs.
 - Findings here reflect a single pass of analysis, not a settled conclusion.
