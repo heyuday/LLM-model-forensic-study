@@ -8,7 +8,7 @@ Small-scale model forensics on three behaviors:
 
 This repo was prepared as part of a work test, with the specific goal of analyzing these behaviors for model-forensic purposes.
 
-The scope is intentionally narrow: three behaviors, examined closely, rather than a wide survey.
+The scope is intentionally narrow: three behaviors, examined closely, rather than a wide survey. Depth was prioritized over coverage.
 
 It combines source reading, repo inspection, shipped artifact analysis, and a small set of live probes. The goal is not a benchmark package. The goal is to answer a narrower question: when models do something strange, what is the best current explanation of why they are doing it?
 
