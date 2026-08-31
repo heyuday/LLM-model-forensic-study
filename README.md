@@ -61,7 +61,7 @@ If you want the raw evidence first, start in [`results/key`](results/key). The `
 
 ## Reproducing the Live Probes
 
-The live probes use OpenRouter. Some follow-up analysis also used Anthropic.
+The live probes use OpenRouter. Some follow-up analysis also used Anthropic directly.
 
 Set keys in:
 
