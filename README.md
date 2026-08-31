@@ -49,7 +49,7 @@ README.md
 3. [`docs/source_notes.md`](docs/source_notes.md)
 4. [`docs/probe_designs.md`](docs/probe_designs.md)
 
-If you want the raw evidence first, start in [`results/key`](results/key).
+If you want the raw evidence first, start in [`results/key`](results/key). The `results/raw` directory is mostly useful for tracing how the key artifacts were arrived at.
 
 ## Key Artifacts
 
