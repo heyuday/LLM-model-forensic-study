@@ -19,7 +19,7 @@ It combines source reading, repo inspection, shipped artifact analysis, and a sm
 - **Claude safety refusals**
   The behavior is layered. Part of it is legitimacy and specification ambiguity. Part of it looks like an object-level concern about helping suppress reporting or whistleblowing.
 - **Value leakage**
-  The main pattern looks like selective search and selective endorsement inside a plausible range of answers, paired with unreliable self-description about being unbiased.
+  The main pattern looks like selective search and selective endorsement inside a plausible range of answers, paired with unreliable self-description about being unbiased. Self-reports should not be taken at face value here.
 
 ## Repository Layout
 
