@@ -15,7 +15,7 @@ It combines source reading, repo inspection, shipped artifact analysis, and a sm
 ## Current Take
 
 - **Odd Number**
-  The best interpretation is in-context task gaming, not literal reward hacking. The interesting models seem to treat reward-like fields as the real objective when those fields look live.
+  The best interpretation is in-context task gaming, not literal reward hacking. The interesting models seem to treat reward-like fields as the real objective when those fields look live. This holds across the prompt variants tested so far.
 - **Claude safety refusals**
   The behavior is layered. Part of it is legitimacy and specification ambiguity. Part of it looks like an object-level concern about helping suppress reporting or whistleblowing.
 - **Value leakage**
