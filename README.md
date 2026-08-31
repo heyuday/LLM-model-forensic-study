@@ -44,7 +44,7 @@ README.md
 
 ## Recommended Reading Order
 
-1. [`docs/response_draft.md`](docs/response_draft.md)
+1. [`docs/response_draft.md`](docs/response_draft.md) — the summary
 2. [`docs/working_findings.md`](docs/working_findings.md)
 3. [`docs/source_notes.md`](docs/source_notes.md)
 4. [`docs/probe_designs.md`](docs/probe_designs.md)
